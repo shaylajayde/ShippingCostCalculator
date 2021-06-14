@@ -1,0 +1,2 @@
+C:\Users\shayl\source\repos\ShippingCostCalculator\Debug\ShippingCostCalculator.exe
+C:\Users\shayl\OneDrive\Documents\School\ITCS 2530 - C++\Week 3\ShippingCostCalculator\Debug\ShippingCostCalculator.exe
